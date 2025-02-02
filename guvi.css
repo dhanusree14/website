@@ -1,0 +1,101 @@
+.container{
+    border: none;
+    position: relative;
+    font-family: sans-serif;
+    color:gray ;
+}
+.left{
+    border: none;
+    position: absolute;
+    top: ;
+    bottom: ;
+    margin-left:30px ;
+    margin-top: 60px;
+    width: 45%;
+    height: 600px;
+}
+.right{
+    border: none;
+    position: absolute;
+    width: 45%;
+    height: 600px;
+    top: ;
+    bottom: ;
+    margin-left:50% ;
+    margin-top:60px ;
+}
+img{
+    margin-top: 90px;
+margin-left: 90px;
+}
+span{
+    color: springgreen;
+}
+p{
+    line-height: 40px;
+    font-size: 20px;
+}
+h1{
+    margin-top: 100px;
+    color: black;
+    font-size: xx-large;
+}
+button{
+    font-size: larger;
+    margin-top: 30px;
+    border: none;
+    border-color: darkgray;
+    color: rgb(87, 85, 85);
+}
+b{
+    color: springgreen;
+}
+nav{
+    margin-left: 40px;
+}
+.code{
+
+    position: relative;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.img{
+
+    position: absolute;
+    margin-top:150px ;
+    margin-left:50px ;
+    height: 400px;
+    width: 45%;
+}
+.matter{
+    
+    color: gray;
+    position: absolute;
+    margin-top:150px ;
+    margin-left:50% ;
+    height: 400px;
+    width: 45%;
+    line-height: 30px;
+}
+img{
+    margin-top: 100px;
+    margin-left: 100px;
+}
+h1{
+    margin-top: 100px;
+    color: #000;
+}
+button{
+    color:white;
+    font-size:large;
+    background-color: rgb(5, 131, 39);
+    border: none;
+    padding: 10px;
+}
+nav{
+    margin-left: 40px;
+}
+h2{
+    font-size: 40px;
+    color: rgb(28, 190, 28);
+    margin-left: 00px;
+}
